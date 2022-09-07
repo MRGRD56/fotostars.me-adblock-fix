@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         fotostart.me adblock fix
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/MRGRD56
 // @version      0.1
 // @description  try to take over the world!
 // @author       MRGRD56
